@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Ibrahim Kamal
 
-- I am currently a senior at Drexel University studying Software Engineering with concentration in Artificial Intelligence and High-Performance Computing.
+* I am currently a senior at Drexel University studying Software Engineering with concentration in Artificial Intelligence and High-Performance Computing.
 
-- During my first internship at Bentley Systems, I collaborated with the UX team to build their in-house UX-library, [itwinui-react](https://www.npmjs.com/package/@itwin/itwinui-react)
+* During my first internship at Bentley Systems, I collaborated with the UX team to build their in-house UX-library, [itwinui-react](https://www.npmjs.com/package/@itwin/itwinui-react)
 
-- During my second internship at Bentley Systems, I collborated with the Project Wise Work Area Connection team to enhance their Document Management Software, [ProjectWise](https://www.bentley.com/en/products/brands/projectwise)
+* During my second internship at Bentley Systems, I collborated with the Project Wise Work Area Connection team to enhance their Document Management Software, [ProjectWise](https://www.bentley.com/en/products/brands/projectwise)
 
 * I’m currently learning **Go** and **Distributed Systems**
 * Ask me about anything @ ikamal66@gmail.com, I am happy to help.
